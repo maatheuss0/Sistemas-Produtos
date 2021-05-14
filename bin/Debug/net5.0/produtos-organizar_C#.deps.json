@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "produtos-organizar_C#/1.0.0": {
+        "runtime": {
+          "produtos-organizar_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "produtos-organizar_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

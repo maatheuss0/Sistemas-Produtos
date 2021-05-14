@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.exe
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.deps.json
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.runtimeconfig.json
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.dll
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\ref\produtos-organizar_C#.dll
+C:\Users\user\Desktop\produtos-organizar_C#\bin\Debug\net5.0\produtos-organizar_C#.pdb
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.dll
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\ref\produtos-organizar_C#.dll
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.pdb
+C:\Users\user\Desktop\produtos-organizar_C#\obj\Debug\net5.0\produtos-organizar_C#.genruntimeconfig.cache
